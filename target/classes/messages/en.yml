@@ -1,0 +1,45 @@
+# English messages for Chat-Stats
+
+# General messages
+only-players: "&cThis command is only available for players!"
+no-permission: "&cYou don't have permission to execute this command!"
+invalid-number: "&cError: enter a valid number!"
+no-stats: "&cNo data to display"
+
+# Command /stats
+stats-title: "📊 Message Statistics"
+player: "Player"
+messages: "messages"
+
+# Command /top
+top-title: "🏆 Top Players by Messages"
+
+# Help
+help-title: "Chat-Stats Help"
+commands-for-all: "📊 Commands for all:"
+show-stats: "Show your message statistics"
+show-top: "Top 10 players by messages"
+show-help: "Show this help"
+commands-for-admins: "🔧 Commands for administrators:"
+show-player-stats: "Show player statistics"
+change-language: "Change plugin language"
+change-color: "Change interface color"
+manage-antispam: "Manage anti-spam"
+author: "Author"
+
+# Anti-spam
+anti-spam-warning: "&c⚠ You are writing too fast! Wait before your next message."
+anti-spam-help: "🚫 Anti-Spam Help"
+current-settings: "Current Settings:"
+status: "Status"
+enabled: "✓ Enabled"
+disabled: "✗ Disabled"
+interval: "Interval"
+max-messages: "Max Messages"
+how-it-works: "How it works:"
+available-commands: "Available Commands:"
+enable-antispam: "Enable anti-spam"
+disable-antispam: "Disable anti-spam"
+set-interval: "Set interval"
+set-limit: "Set message limit"
+examples: "Examples:"

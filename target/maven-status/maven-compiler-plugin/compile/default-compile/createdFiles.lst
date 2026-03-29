@@ -1,0 +1,9 @@
+com\shtuka\chatstats\managers\AntiSpamManager.class
+com\shtuka\chatstats\utils\MessageUtil.class
+com\shtuka\chatstats\ChatStats.class
+com\shtuka\chatstats\managers\ConfigManager.class
+com\shtuka\chatstats\managers\StatsManager.class
+com\shtuka\chatstats\commands\StatsCommand.class
+com\shtuka\chatstats\commands\HelpCommand.class
+com\shtuka\chatstats\listeners\ChatListener.class
+com\shtuka\chatstats\commands\TopCommand.class

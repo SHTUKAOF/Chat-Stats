@@ -1,0 +1,12 @@
+name: ChatStats
+version: 1.0
+main: com.shtuka.chatstats.ChatStats
+description: Chat statistics plugin for Spigot 1.21.10
+authors:
+  - SHTUKA
+
+commands:
+  chatstats:
+    description: Main plugin command
+    usage: /chatstats <stats|top|help|setlang|setcolor|antispam>
+    aliases: [cs]

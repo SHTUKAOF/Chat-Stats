@@ -1,0 +1,45 @@
+# Russian messages for Chat-Stats
+
+# General messages
+only-players: "&cЭта команда доступна только для игроков!"
+no-permission: "&cУ вас нет прав на выполнение этой команды!"
+invalid-number: "&cОшибка: введите корректное число!"
+no-stats: "&cНет данных для отображения"
+
+# Command /stats
+stats-title: "📊 Статистика сообщений"
+player: "Игрок"
+messages: "сообщений"
+
+# Command /top
+top-title: "🏆 Топ игроков по сообщениям"
+
+# Help
+help-title: "Chat-Stats Справка"
+commands-for-all: "📊 Команды для всех:"
+show-stats: "Показать вашу статистику"
+show-top: "Топ 10 игроков по сообщениям"
+show-help: "Показать эту справку"
+commands-for-admins: "🔧 Команды для администраторов:"
+show-player-stats: "Показать статистику игрока"
+change-language: "Изменить язык плагина"
+change-color: "Изменить цвет интерфейса"
+manage-antispam: "Управление анти-спамом"
+author: "Автор"
+
+# Anti-spam
+anti-spam-warning: "&c⚠ Вы пишете слишком быстро! Подождите перед следующим сообщением."
+anti-spam-help: "🚫 Справка по анти-спаму"
+current-settings: "Текущие настройки:"
+status: "Статус"
+enabled: "✓ Включен"
+disabled: "✗ Отключен"
+interval: "Интервал"
+max-messages: "Макс сообщений"
+how-it-works: "Как это работает:"
+available-commands: "Доступные команды:"
+enable-antispam: "Включить анти-спам"
+disable-antispam: "Отключить анти-спам"
+set-interval: "Установить интервал"
+set-limit: "Установить лимит"
+examples: "Примеры:"

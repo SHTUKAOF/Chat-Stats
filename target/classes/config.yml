@@ -1,0 +1,17 @@
+# Chat-Stats Configuration
+# Language: en (English) or ru (Russian)
+language: en
+
+# Interface color (0-9, a-f)
+# 0=Black, 1=Dark Blue, 2=Dark Green, 3=Dark Cyan, 4=Dark Red, 5=Purple, 6=Gold, 7=Gray
+# 8=Dark Gray, 9=Blue, a=Green, b=Cyan, c=Red, d=Magenta, e=Yellow, f=White
+bar-color: "&6"
+
+# Anti-spam settings
+anti-spam:
+  enabled: false
+  cooldown-seconds: 5
+  max-messages-per-interval: 3
+
+# Statistics save interval
+save-interval: 300
